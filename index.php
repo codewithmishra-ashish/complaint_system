@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ComplaintSystem</title>
+    <title>Campus Corner</title>
     <style>
         body {
             margin: 0;
@@ -23,9 +23,9 @@
             background-color: #fff;
             border-radius: 10px;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-            padding: 30px;
+            padding: 20px;
             width: 100%;
-            max-width: 220px;
+            max-width: 250px;
         }
 
         .logo {
@@ -53,9 +53,13 @@
         <div class="logo">
             <img src="https://upload.wikimedia.org/wikipedia/en/4/4f/Maulana_Azad_National_Institute_of_Technology_Logo.png" alt="Logo">
             <h1>
-                <span>Complaint System</span>
+                <span>Campus Corner</span>
             </h1>
         </div>
+
+        <form method="post">
+            inp
+        </form>
     </div>
 </body>
 </html>
